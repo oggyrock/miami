@@ -1,0 +1,17 @@
+@import "utils";
+@import "nav";
+@import "header";
+@import "about-us";
+@import "gallery";
+@import "consultation";
+@import "testimonials";
+@import "contact-us";
+@import "form";
+@import "footer";
+
+::placeholder {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  color: #b9c1ce;
+}
